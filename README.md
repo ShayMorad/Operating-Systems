@@ -24,10 +24,10 @@ Throughout the course, we explored low-level systems programming, focusing on me
 
 | Exercise | Title                    | Description                                                             |
 |----------|--------------------------|-------------------------------------------------------------------------|
-| [Exercise 1](./Exercise%201) | Memory Access Latency Analysis               | Investigate memory access patterns and their performance implications. |
-| [Exercise 2](./Exercise%202) | User-Level Threads    | Implement user-level threading and understand low-level context switching.       |
-| [Exercise 3](./Exercise%203) | Multi-Threaded Map/Reduce      | Implement a MapReduce framework using user-managed threads.                   |
-| [Exercise 4](./Exercise%204) | Virtual Memory API       | Build a custom virtual memory abstraction and implement its core operations. |
+| [Exercise  1](./Exercise%201) | Memory Access Latency Analysis               | Investigate memory access patterns and their performance implications. |
+| [Exercise  2](./Exercise%202) | User-Level Threads    | Implement user-level threading and understand low-level context switching.       |
+| [Exercise  3](./Exercise%203) | Multi-Threaded Map/Reduce      | Implement a MapReduce framework using user-managed threads.                   |
+| [Exercise  4](./Exercise%204) | Virtual Memory API       | Build a custom virtual memory abstraction and implement its core operations. |
 
 
 
